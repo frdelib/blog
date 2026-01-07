@@ -34,21 +34,8 @@ relativeURLs = false
   ShowToc = true
   TocOpen = false
 
-[params.profileMode]
-  enabled = true
-  title = "My PaperMod Blog"
-  subtitle = "Articles and notes."
-  imageTitle = "Profile"
-  imageWidth = 120
-  imageHeight = 120
+  mainSections = ["posts"]
 
-  [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "/posts/"
-
-  [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "/tags/"
 
 [menu]
   [[menu.main]]
