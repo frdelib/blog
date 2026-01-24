@@ -9,7 +9,6 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-relativeURLs = false
 
 [pagination]
   pagerSize = 12
