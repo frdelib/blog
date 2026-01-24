@@ -9,7 +9,6 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-canonifyURLs = false
 relativeURLs = false
 
 [pagination]
