@@ -1,4 +1,5 @@
-baseURL = "https://snailknight-droid.github.io/blog/"
+baseURL = "https://frdelib.github.io/blog/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Snail Knight"
 theme = "PaperMod"
