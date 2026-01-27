@@ -28,6 +28,8 @@ buildExpired = false
   disableSpecial1stPost = true
   ShowReadingTime = true
   ShowShareButtons = true
+    shareButtons = ["twitter", "facebook", "whatsapp", "telegram", "reddit"]
+
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
