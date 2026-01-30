@@ -2,6 +2,7 @@ baseURL = "https://frdelib.github.io/blog/"
 canonifyURLs = true
 languageCode = "en-us"
 title = "Snail Knight"
+description = "വാക്കിന്റെ വക്കിൽ"
 theme = "PaperMod"
 googleAnalytics = "G-X38629MW1Y"
 enableRobotsTXT = true
