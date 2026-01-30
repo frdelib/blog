@@ -3,7 +3,7 @@ canonifyURLs = true
 languageCode = "en-us"
 title = "Snail Knight"
 theme = "PaperMod"
-
+googleAnalytics = "G-X38629MW1Y"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -23,7 +23,6 @@ buildExpired = false
 [params]
   hideSummary = true
   env = "production"
-  googleAnalytics = "G-X38629MW1Y"
   defaultTheme = "auto"
   disableThemeToggle = false
   disableSpecial1stPost = true
