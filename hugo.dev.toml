@@ -1,6 +1,7 @@
-baseURL = "https://frdelib.github.io/blog/"
-canonifyURLs = true
+baseURL = "/"
+canonifyURLs = false
 languageCode = "en-us"
+relativeURLs = true
 title = "Snail Knight"
 description = "വാക്കിന്റെ വക്കിൽ"
 theme = "PaperMod"
@@ -29,10 +30,9 @@ buildExpired = false
   disableThemeToggle = false
   disableSpecial1stPost = true
   math = true
-
   ShowReadingTime = true
   ShowShareButtons = true
-  shareButtons = ["twitter", "facebook", "whatsapp", "telegram", "reddit"]
+    shareButtons = ["twitter", "facebook", "whatsapp", "telegram", "reddit"]
 
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
@@ -41,9 +41,6 @@ buildExpired = false
   TocOpen = false
 
   mainSections = ["posts"]
-
-  [params.katex]
-    enable = true
 
 
 [menu]
@@ -62,9 +59,9 @@ buildExpired = false
 
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
+home = ["HTML", "RSS", "JSON"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+

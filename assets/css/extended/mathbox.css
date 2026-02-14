@@ -1,0 +1,51 @@
+.mathbox {
+  background: #f3efe8;              /* warm ivory tone */
+  border: 1px solid #e2d9c7;        /* subtle structure */
+  border-radius: 18px;
+  padding: 1.75rem 2rem;
+  margin: 1.75rem 0;
+  text-align: center;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  box-shadow: none;                /* remove UI shadow */
+}
+
+.mathbox .katex-display,
+.mathbox .MathJax_Display,
+.mathbox mjx-container {
+  font-size: 1.18rem;
+  line-height: 1.15;
+  margin: 0;
+  padding: 0;
+}
+
+.mathbox.compact {
+  display: inline-block;
+  padding: 1rem 1.25rem;
+  margin: 0.6rem 0.5rem;
+  vertical-align: middle;
+}
+
+.mathbox.final {
+  background: #efe8db;             /* slightly deeper warm tone */
+  border: 1px solid #d8cbb5;
+  font-size: 1.28rem;
+  font-weight: 500;
+  padding: 1.5rem 2rem;
+}
+
+@media (max-width: 720px) {
+  .mathbox { padding: 1.1rem 1rem; }
+
+  .mathbox .katex-display,
+  .mathbox .MathJax_Display,
+  .mathbox mjx-container {
+    font-size: 1.05rem;
+  }
+
+  .mathbox.compact {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
