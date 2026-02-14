@@ -122,12 +122,11 @@ $$
 
 ഇത്തരമൊരു വ്യവസ്ഥയിൽ കൃത്യത എന്നത് ഒരു നിരന്തരമായ ബാധ്യതയാണ്. ആവർത്തിച്ചുള്ള കേസുകൾ ആവർത്തിച്ചുള്ള അനുപാത സമ്മർദ്ദങ്ങൾ സൃഷ്ടിക്കുന്നു. അജ്ഞാത ഘടകത്തിന്റെ അവതരണവും, പദങ്ങളുടെ ക്രമീകരണവും, പ്രശ്നങ്ങളെ പൊതുവായ മാതൃകകളിലേക്ക് മാറ്റുന്ന രീതിയും കേവലമായ വിവരണങ്ങൾ പരാജയപ്പെടുന്നിടത്ത് സുസ്ഥിരത നൽകുന്നു. ഘടനാപരമായ ആവശ്യത്തോടുള്ള പ്രതികരണമാണ് ഇവിടെ അൽജിബ്ര.
 
-സമാനമായ കൃത്യതയുടെ ആവശ്യകത ഇസ്‌ലാമിക ജീവിതത്തിന്റെ മറ്റ് മേഖലകളിലും ഉയന്നുവന്നു. നമസ്കാര സമയങ്ങൾ നിർണ്ണയിക്കൽ (കാണുക: 
-<a href="https://www.academia.edu/43168384/IN_SYNCHRONY_WITH_THE_HEAVENS_VOLUME_ONE_THE_CALL_OF_THE_MUEZZIN" target="_blank" rel="noopener noreferrer">David A. King, *In Synchrony with the Heavens*, Vol. I: *The Call of the Muezzin*</a>), 
-വിദൂരദേശങ്ങളിൽ നിന്ന് മക്കയുടെ ദിശ കണ്ടെത്തൽ (കാണുക: 
-<a href="https://www.academia.edu/37189917/KING_2005_IN_SYNCHRONY_WITH_THE_HEAVENS_VOL_TWO_INSTRUMENTS_OF_MASS_CALCULATION_pdf" target="_blank" rel="noopener noreferrer">David A. King, *In Synchrony with the Heavens*, Vol. II: *Instruments of Mass Calculation*</a>) 
+സമാനമായ കൃത്യതയുടെ ആവശ്യകത ഇസ്‌ലാമിക ജീവിതത്തിന്റെ മറ്റ് മേഖലകളിലും ഉയന്നുവന്നു. 
+<a href="https://www.academia.edu/43168384/IN_SYNCHRONY_WITH_THE_HEAVENS_VOLUME_ONE_THE_CALL_OF_THE_MUEZZIN" target="_blank" rel="noopener noreferrer">നമസ്കാര സമയങ്ങൾ നിർണ്ണയിക്കൽ</a> 
+മற்றും വിദൂരദേശങ്ങളിൽ നിന്ന് 
+<a href="https://www.academia.edu/37189917/KING_2005_IN_SYNCHRONY_WITH_THE_HEAVENS_VOL_TWO_INSTRUMENTS_OF_MASS_CALCULATION_pdf" target="_blank" rel="noopener noreferrer">മക്കയുടെ ദിശ കണ്ടെത്തൽ</a> 
 എന്നിവയ്ക്ക് കൂടുതൽ സൂക്ഷ്മമായ ജ്യോതിശാസ്ത്ര-ജ്യാമിതീയ യുക്തികൾ ആവശ്യമായിരുന്നു. ചന്ദ്രമാസ ഗണനയ്ക്കും സമാനമായ കണക്കുകൂട്ടൽ സൂക്ഷ്മത ആവശ്യമായിരുന്നു. സംഖ്യാപരമായ സൂക്ഷ്മതയ്ക്ക് നിയമപരമായ പ്രാധാന്യമുള്ള ഒരു ബൗദ്ധിക അന്തരീക്ഷത്തെ ഈ ആചാരങ്ങൾ ശക്തിപ്പെടുത്തി.
-
 
 അൽ-ഖ്വാരിസ്മിയുടെ പേരിന്റെ ലാറ്റിൻ രൂപത്തിൽ നിന്നാണ് ആധുനിക കാലത്തെ “അൽഗോരിതം” എന്ന വാക്കുണ്ടായത്. മധ്യകാല ലാറ്റിൻ വിവർത്തനങ്ങളിൽ, അദ്ദേഹത്തിന്റെ ഇന്ത്യൻ സംഖ്യാ സമ്പ്രദായത്തെക്കുറിച്ചുള്ള പഠനങ്ങൾ *Algoritmi de numero Indorum* എന്ന ശീർഷകത്തിൽ അറിയപ്പെട്ടു. ഈ ശീർഷകത്തിൽ നിന്നാണ് 'അൽഗോരിത്മി' എന്ന പദവും പിന്നീട് 
 <a href="https://www.britannica.com/biography/al-Khwarizmi#:~:text=In%20the%2012th%20century%20a,originated%20the%20term%20algorithm." target="_blank" rel="noopener noreferrer">'അൽഗോരിതം'</a> 
