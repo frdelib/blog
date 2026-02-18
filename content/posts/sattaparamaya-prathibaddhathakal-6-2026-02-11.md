@@ -1,5 +1,5 @@
 +++
-title = "സത്താപരമായ പ്രതിബദ്ധതകളും അന്വേഷണത്തിന്റെ ഘടനയും (6): അക്വീനാസും യുക്തിധിഷ്ടിത ദൈവശാസ്ത്രത്തിന്റെ സ്ഥിരതയും"
+title = "സത്താപരമായ പ്രതിബദ്ധതകളും അന്വേഷണത്തിന്റെ ഘടനയും(6): അക്വീനാസും യുക്തിധിഷ്ഠിത ദൈവശാസ്ത്രത്തിന്റെ സ്ഥിരതയും"
 date = 2026-02-17T10:00:00-08:00
 draft = false
 slug = "sattaparamaya-prathibaddhathakal-6"
@@ -29,9 +29,15 @@ categories = ["ലേഖനം"]
 References
 
 ¹ Edward Grant, God and Reason in the Middle Ages (Cambridge University Press, 2001), chapters 2–4.
+
 ² Avicenna, The Metaphysics of The Healing, trans. Michael Marmura (Brigham Young University Press, 2005), Book I.
+
 ³ Averroes, Long Commentary on the De Anima, trans. Richard C. Taylor (Yale University Press, 2009).
+
 ⁴ Thomas Aquinas, De ente et essentia, in Opera Omnia.
+
 ⁵ Thomas Aquinas, Summa Theologiae, I, q. 3, a. 4.
+
 ⁶ Thomas Aquinas, Summa Theologiae, I, q. 22–23.
+
 ⁷ Edward Grant, The Foundations of Modern Science in the Middle Ages (Cambridge University Press, 1996); David C. Lindberg, The Beginnings of Western Science (University of Chicago Press, 2007).
