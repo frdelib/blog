@@ -1,7 +1,8 @@
-/* Book-style boxes */
+/* Theme-aware book boxes */
+
 .plb-box{
-  background: #f6f6f6;
-  border: 1px solid #e2e2e2;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
   border-radius: 10px;
   padding: 1.1rem 1.2rem;
   margin: 1.5rem 0;
@@ -16,7 +17,7 @@
 .plb-box-body{
   font-size: 0.98rem;
   line-height: 1.55;
-  color: inherit;
+  color: var(--content);
 }
 
 .plb-box-body p{
