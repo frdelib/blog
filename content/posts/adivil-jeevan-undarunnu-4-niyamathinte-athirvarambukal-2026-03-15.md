@@ -1,6 +1,6 @@
 +++
 title = "ആദിയിൽ ജീവനുണ്ടായിരുന്നു (4): നിയമത്തിന്റെ അതിർവരമ്പുകൾ"
-date = 2026-03-09T10:00:00-08:00
+date = 2026-03-09T10:00:00-08:02
 draft = false
 slug = "adivil-jeevan-undarunnu-4-niyamathinte-athirvarambukal"
 tags = [
