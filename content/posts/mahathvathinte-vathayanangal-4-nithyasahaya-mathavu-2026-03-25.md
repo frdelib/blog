@@ -5,7 +5,7 @@ draft = false
 slug = "mahathvathinte-vathayanangal-4-nithyasahaya-mathavu"
 tags = [
   "ക്രൈസ്തവസൗന്ദര്യശാസ്ത്രം",
-  "ഐക്കൺകല",
+  "ഐക്കണോഗ്രാഫി",
   "മറിയം",
   "നിത്യസഹായ മാതാവ്",
   "കലാവിശകലനം"
