@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "content/in-the-beginning-is-life"]
+	path = content/in-the-beginning-is-life
+	url = https://github.com/frdelib/in-the-beginning-is-life
